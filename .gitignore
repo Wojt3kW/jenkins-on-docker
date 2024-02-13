@@ -16,6 +16,9 @@
 !/jobs
 !/.gitignore
 !/*.xml
+!/start.bat
+!/jenkins-docker-compose.yaml
+!/.env
 
 # Ignore all files in jobs subdirectories except for folders.
 # Note: git doesn't track folders, only file content.
